@@ -166,7 +166,7 @@ top:100vw;
 left:10vw;
 height:10vh;
 width:70vw;
-font-size:3.5vw;
+font-size:4.5vw;
 }
 
 .entry{
@@ -181,9 +181,9 @@ font-size:3.5vw;
 
 #firstname,#lastname,#email,#pass{
  
-    width:55vw;
+    width:50vw;
     height:10vw;
-
+    
 }
 
 #button{
